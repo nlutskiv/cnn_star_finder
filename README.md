@@ -37,6 +37,9 @@ This outputs:
 Injection–recovery test on **600 injected sources**:
 - **Completeness (≤ 3 px):** ~0.7 to 0.9
 
+- <img width="700" height="600" alt="example_output" src="https://github.com/user-attachments/assets/3009fd57-9010-4368-9be9-7b2784dea70e" />
+
+
 Some false positives correspond to real pre-existing sources in the image or to saturated or extended objects and also object getting detected more than once due to stitching
 
 ### Repository Structure
